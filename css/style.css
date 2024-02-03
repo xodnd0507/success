@@ -48,12 +48,6 @@ li {
     font-weight: bold;
 }
 
-.darkmode {
-    width: 100px;
-    height: 30px;
-    display: flex;
-}
-
 .section {
     width: 700px;
     height: 500px;
